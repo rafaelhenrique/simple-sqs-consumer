@@ -1,0 +1,4 @@
+AWS_DEFAULT_REGION=<inform aws region here>
+AWS_ACCESS_KEY_ID=<inform access key id here>
+AWS_SECRET_ACCESS_KEY=<inform secret access key here>
+SQS_QUEUE_NAME=<inform sqs queue name here>
