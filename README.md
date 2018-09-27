@@ -27,3 +27,8 @@ $ python -m sqs_consumer
 Add messages on queue and see how it works!
 Adjust print_handler and error_handler for your purpouses.
 
+# Reference
+
+- https://loafer.readthedocs.io/en/latest/
+
+
